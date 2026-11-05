@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+_gui_*.py
+
+# 私人测试文件，不上传
+t.zip
+test*.zip
