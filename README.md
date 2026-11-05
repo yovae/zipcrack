@@ -6,7 +6,6 @@
 
 ## 界面
 
-| 破解进行中 | 破解成功 |
 | --- | --- |
 | ![破解进行中](docs/images/gui-running.png) | ![破解成功](docs/images/gui-done.png) |
 
